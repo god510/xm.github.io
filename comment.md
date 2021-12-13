@@ -21,6 +21,8 @@
 
 本教程的代码托管在 GitHub：[Django_blog_tutorial](https://github.com/stacklens/django_blog_tutorial)
 
+本教程的代码托管在 GitHub：[comment](https://god510.github.io/xm.github.io/comment)
+
 Django 的官方网站：[Django](https://www.djangoproject.com/)
 
 撰写本文参考了以下资料，受益匪浅，并向读者强烈推荐：
